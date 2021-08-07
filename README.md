@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anshul1907
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
+-     willing to work in some projects. 
 - 💞️ I’m looking to collaborate on projects where i can learn new skills
 - 📫 How to reach me Email Id.: - anshuljain7240@gmail.com
                       Phone no.: - 7240786976
